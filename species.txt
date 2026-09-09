@@ -1,0 +1,75 @@
+Acalypha siamensis Oliv. ex Gage, 40
+Acalypha wilkesiana Müll.Arg, 40
+Agathis borneensis Warburg, 40
+Agave demeesteriana Jacobi, 40
+Allamanda cathartica L, 40
+Alocasia macrorrhizos, 40
+Aloe vera (L.) Burm.f, 40
+Alstonia angustiloba Miq, 40
+Alstonia iwahigensis Elmer, 40
+Amorphophallus paeoniifolius (Dennst.) Nicolson, 40
+Aquilaria beccariana Thymelaeaceae, 40
+Asystasia gangetica (L.) T.Anderson, 40
+Borassodendron borneensis J. Dransf, 40
+Bougainvillea spectabilis, 40
+Cocos nucifera L, 40
+Codiaeum variegatum (L.) Rumph. ex A.Juss, 40
+Cordyline fruticosa (L.) A. Chev, 40
+Cornus alba L, 40
+Costus woodsonii Maas, 40
+Cotylelobium melanoxylum Dipterocarpaceae, 40
+Ctenanthe burle-marxii H.Kenn, 40
+Dillenia sp, 40
+Diospyros borneensis Hiern, 40
+Diospyros confertiflora Hiern, 40
+Dipterocarpus confertus Dipterocarpaceae, 40
+Dipterocarpus tempehes Dipterocarpaceae, 40
+Dracaena reflexa Lam, 40
+Dracaena trifasciata (Prain) Mabb, 40
+Duranta erecta L, 40
+Durio dulcis Bombacaceae, 40
+Durio lanceolatus Bombacaceae, 40
+Durio oxleyanus Bombacaceae, 40
+Etlingera balikpapanensis Zingiberaceae, 40
+Eusideroxylon zwageri Teijsm. & Binn, 40
+Excoecaria cochinchinensis Lour, 40
+Furcraea foetida (L.) Haw, 40
+Garcinia mangostana L, 40
+Grammatophyllum speciosum, 40
+Hibiscus rosa-sinensis L, 40
+Hopea dryobalanoides Dipterocarpaceae, 40
+Hopea mengerawan Dipterocarpaceae, 40
+Hopea pedicellata (Brandis) Symington, 40
+Hopea rudiformis Dipterocarpaceae, 40
+Hura crepitans L, 40
+Ixora javanica, 40
+Kalanchoe pinnata, 40
+Koompassia excelsa (Becc.) Taub, 40
+Licuala spinosa, 40
+Mangifera indica L, 40
+Mussaenda philippica, 40
+Nepenthes mirabilis Druce, 40
+Pandanus amaryllifolius Roxb, 40
+Pandanus pygmaeus Thouars, 40
+Plumeria sp, 40
+Ruellia simplex C.Wright, 40
+Saraca declinata Miq, 40
+Scorodocarpus borneensis, 40
+Shorea agamii Dipterocarpaceae, 40
+Shorea beccariana Dipterocarpaceae, 40
+Shorea inappendiculata Dipterocarpaceae, 40
+Shorea laevis Ridl, 40
+Shorea macrophylla Dipterocarpaceae, 40
+Shorea maxwelliana Dipterocarpaceae, 40
+Shorea ovalis Dipterocarpaceae, 40
+Shorea pauciflora Dipterocarpaceae, 40
+Shorea pinanga Dipterocarpaceae, 40
+Shorea smithiana Dipterocarpaceae, 40
+Shorea stenoptera Dipterocarpaceae, 40
+Strombosia ceylanica Gardn, 40
+Syzygium oleana, 40
+Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult, 40
+Terminalia mantaly H.Perrier, 40
+Vatica oblongifolia Hook.f, 40
+Vatica pauciflora Dipterocarpaceae, 40
+Vatica sarawakensis Dipterocarpaceae, 40

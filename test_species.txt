@@ -1,0 +1,3 @@
+Pongo pygmaeus,5
+Nasalis larvatus,5
+Helarctos malayanus,3
