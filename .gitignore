@@ -1,10 +1,28 @@
-# Python-generated files
+# Environment
+config/.env
+venv/
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+*.pyc
 
-# Virtual environments
-.venv
+# Data
+data/output/
+data/cache/*.db
+data/p106/*.pdf
+!data/cache/griis_indonesia.json
+
+# Logs
+logs/*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test outputs
+data/output/test_run/
+data/output/full_run/

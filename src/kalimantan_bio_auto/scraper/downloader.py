@@ -11,6 +11,7 @@ from typing import Optional
 from urllib.parse import urlparse
 
 import httpx
+from io import BytesIO
 from PIL import Image
 from tenacity import retry, stop_after_attempt, wait_exponential
 
@@ -123,6 +124,53 @@ class ImageDownloader:
         except Exception:
             return False, None
 
+    def _normalize_for_save(self, img: Image.Image) -> Image.Image:
+        if img.mode in ("RGBA", "LA", "P"):
+            background = Image.new("RGB", img.size, (255, 255, 255))
+            if img.mode == "P":
+                img = img.convert("RGBA")
+            mask = img.split()[-1] if img.mode in ("RGBA", "LA") else None
+            background.paste(img, mask=mask)
+            return background
+        if img.mode != "RGB":
+            return img.convert("RGB")
+        return img
+
+    def _resize_if_needed(self, img: Image.Image) -> Image.Image:
+        max_dim = self.config.max_dimension_px
+        if img.width > max_dim or img.height > max_dim:
+            img.thumbnail((max_dim, max_dim), Image.LANCZOS)
+        return img
+
+    def _try_webp_compress(self, img: Image.Image) -> Optional[bytes]:
+        quality = self.config.webp_quality
+        target_bytes = self.config.target_max_kb * 1024
+        best: Optional[bytes] = None
+        while quality >= 30:
+            output = BytesIO()
+            img.save(output, format="WEBP", quality=quality, method=6)
+            data = output.getvalue()
+            best = data
+            if len(data) <= target_bytes:
+                return data
+            quality -= 5
+        return best
+
+    def _optimized_original_bytes(self, img: Image.Image, ext: str) -> Optional[bytes]:
+        try:
+            output = BytesIO()
+            if ext in (".jpg", ".jpeg"):
+                img.save(output, format="JPEG", quality=85, optimize=True)
+            elif ext == ".png":
+                img.save(output, format="PNG", optimize=True)
+            elif ext == ".webp":
+                img.save(output, format="WEBP", quality=self.config.webp_quality, method=6)
+            else:
+                img.save(output, format="JPEG", quality=85, optimize=True)
+            return output.getvalue()
+        except Exception:
+            return None
+
     @retry(
         wait=wait_exponential(multiplier=1, min=2, max=10),
         stop=stop_after_attempt(3),
@@ -158,18 +206,58 @@ class ImageDownloader:
             if len(response.content) > self.config.max_image_size_mb * 1024 * 1024:
                 return None
 
-            ext = self._get_file_extension(url, content_type)
+            orig_ext = self._get_file_extension(url, content_type)
+
+            try:
+                with Image.open(BytesIO(response.content)) as probe:
+                    probe.load()
+                    if probe.width < self.config.min_image_width or probe.height < self.config.min_image_height:
+                        return None
+                    img = probe.copy()
+            except Exception:
+                return None
+
+            img = self._normalize_for_save(img)
+            img = self._resize_if_needed(img)
+
+            final_bytes: Optional[bytes] = None
+            final_ext = orig_ext
+            final_mime = content_type
+
+            if self.config.prefer_webp:
+                webp_bytes = self._try_webp_compress(img)
+                orig_opt_bytes = self._optimized_original_bytes(img, orig_ext)
+                candidates: list[tuple[bytes, str, str]] = []
+                if webp_bytes:
+                    candidates.append((webp_bytes, ".webp", "image/webp"))
+                if orig_opt_bytes:
+                    candidates.append((orig_opt_bytes, orig_ext, content_type))
+                if not candidates:
+                    return None
+                # Prefer smallest file that meets target; otherwise smallest overall
+                target_bytes = self.config.target_max_kb * 1024
+                within = [c for c in candidates if len(c[0]) <= target_bytes]
+                chosen = min(within, key=lambda c: len(c[0])) if within else min(candidates, key=lambda c: len(c[0]))
+                final_bytes, final_ext, final_mime = chosen
+            else:
+                final_bytes = self._optimized_original_bytes(img, orig_ext) or response.content
+
+            if not final_bytes:
+                return None
+
             species_dir = self._get_species_dir(species)
             species_dir.mkdir(parents=True, exist_ok=True)
 
-            existing_files = list(species_dir.glob(f"*{ext}"))
-            file_num = len(existing_files) + 1
-            file_name = f"{file_num:03d}_{source}_{hashlib.md5(url.encode()).hexdigest()[:8]}{ext}"
+            existing_count = sum(
+                len(list(species_dir.glob(f"*{e}"))) for e in self.config.allowed_extensions
+            )
+            file_num = existing_count + 1
+            file_name = f"{file_num:03d}_{source}_{hashlib.md5(url.encode()).hexdigest()[:8]}{final_ext}"
             file_path = species_dir / file_name
 
             try:
                 with open(file_path, "wb") as f:
-                    f.write(response.content)
+                    f.write(final_bytes)
             except Exception:
                 return None
 
@@ -193,7 +281,7 @@ class ImageDownloader:
                 width=width,
                 height=height,
                 file_size_bytes=file_size,
-                mime_type=content_type,
+                mime_type=final_mime,
                 license=license,
                 attribution=attribution,
                 observation_id=observation_id,

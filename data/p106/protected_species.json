@@ -1,0 +1,3618 @@
+{
+  "balaenoptera acutorostrata": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus tombak"
+  },
+  "balaenoptera bonaerensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus minke antartika"
+  },
+  "balaenoptera borealis": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus sei"
+  },
+  "balaenoptera edeni": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus edeni"
+  },
+  "balaenoptera musculus": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus biru"
+  },
+  "balaenoptera omurai": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus omura"
+  },
+  "megaptera novaeangliae": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus bongkok"
+  },
+  "bos javanicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "banteng"
+  },
+  "bubalus depressicornis": {
+    "category": "Dilindungi",
+    "indonesian_name": "anoa dataran rendah"
+  },
+  "bubalus quarlesi": {
+    "category": "Dilindungi",
+    "indonesian_name": "anoa gunung"
+  },
+  "capricornis sumatraensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kambing hutan sumatera"
+  },
+  "cuon alpinus": {
+    "category": "Dilindungi",
+    "indonesian_name": "anjing ajag"
+  },
+  "macaca maura": {
+    "category": "Dilindungi",
+    "indonesian_name": "monyet darre"
+  },
+  "macaca nigra": {
+    "category": "Dilindungi",
+    "indonesian_name": "monyet yaki"
+  },
+  "macaca ochreata": {
+    "category": "Dilindungi",
+    "indonesian_name": "monyet digo"
+  },
+  "macaca pagensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "beruk mentawai"
+  },
+  "macaca tonkeana": {
+    "category": "Dilindungi",
+    "indonesian_name": "monyet boti"
+  },
+  "nasalis larvatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "bekantan"
+  },
+  "presbytis comata": {
+    "category": "Dilindungi",
+    "indonesian_name": "lutung surili"
+  },
+  "presbytis frontata": {
+    "category": "Dilindungi",
+    "indonesian_name": "lutung jirangan"
+  },
+  "presbytis melalophos": {
+    "category": "Dilindungi",
+    "indonesian_name": "lutung simpai"
+  },
+  "presbytis natunae": {
+    "category": "Dilindungi",
+    "indonesian_name": "kekah"
+  },
+  "presbytis potenziani": {
+    "category": "Dilindungi",
+    "indonesian_name": "lutung joja"
+  },
+  "presbytis rubicunda": {
+    "category": "Dilindungi",
+    "indonesian_name": "lutung merah"
+  },
+  "presbytis thomasi": {
+    "category": "Dilindungi",
+    "indonesian_name": "lutung kedih"
+  },
+  "simias concolor": {
+    "category": "Dilindungi",
+    "indonesian_name": "lutung simakobu"
+  },
+  "trachypithecus auratus": {
+    "category": "Dilindungi",
+    "indonesian_name": "lutung budeng"
+  },
+  "trachypithecus cristatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "lutung kelabu"
+  },
+  "axis kuhlii": {
+    "category": "Dilindungi",
+    "indonesian_name": "rusa bawean"
+  },
+  "muntiacus muntjak": {
+    "category": "Dilindungi",
+    "indonesian_name": "kijang muncak"
+  },
+  "muntiacus atherodes": {
+    "category": "Dilindungi",
+    "indonesian_name": "kijang kuning"
+  },
+  "rusa timorensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "rusa timor"
+  },
+  "rusa unicolor": {
+    "category": "Dilindungi",
+    "indonesian_name": "rusa sambar"
+  },
+  "delphinus capensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "lumba lumba moncong panjang"
+  },
+  "feresa attenuata": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus pemangsa kerdil"
+  },
+  "globicephala macrorhynchus": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus pilot bersirip pendek"
+  },
+  "grampus griseus": {
+    "category": "Dilindungi",
+    "indonesian_name": "lumba-lumba risso"
+  },
+  "lagenodelphis hosei": {
+    "category": "Dilindungi",
+    "indonesian_name": "lumba-lumba fraser"
+  },
+  "orcaella brevirostris": {
+    "category": "Dilindungi",
+    "indonesian_name": "pesut mahakam"
+  },
+  "orcinus orca": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus pembunuh, paus seguni"
+  },
+  "peponocephala electra": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus kepala melon"
+  },
+  "pseudorca crassidens": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus pemangsa palsu"
+  },
+  "sousa chinensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "lumba-lumba bongkok"
+  },
+  "stenella attenuata": {
+    "category": "Dilindungi",
+    "indonesian_name": "lumba-lumba totol"
+  },
+  "stenella coeruleoalba": {
+    "category": "Dilindungi",
+    "indonesian_name": "lumba-lumba garis"
+  },
+  "stenella longirostris": {
+    "category": "Dilindungi",
+    "indonesian_name": "lumba-lumba moncong panjang"
+  },
+  "steno bredanensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "lumba-lumba gigi kasar lumba-lumba hidung botol"
+  },
+  "tursiops aduncus": {
+    "category": "Dilindungi",
+    "indonesian_name": "indopasifik"
+  },
+  "tursiops truncatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "lumba-lumba hidung botol"
+  },
+  "dugong dugon": {
+    "category": "Dilindungi",
+    "indonesian_name": "duyung"
+  },
+  "elephas maximus": {
+    "category": "Dilindungi",
+    "indonesian_name": "gajah asia"
+  },
+  "catopuma badia": {
+    "category": "Dilindungi",
+    "indonesian_name": "kucing merah"
+  },
+  "catopuma temminckii": {
+    "category": "Dilindungi",
+    "indonesian_name": "kucing emas"
+  },
+  "neofelis diardi": {
+    "category": "Dilindungi",
+    "indonesian_name": "macan dahan"
+  },
+  "panthera pardus": {
+    "category": "Dilindungi",
+    "indonesian_name": "melas harimau tutul/ macan tutul"
+  },
+  "panthera tigris": {
+    "category": "Dilindungi",
+    "indonesian_name": "sumatrae harimau sumatera"
+  },
+  "pardofelis marmorata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kucing batu"
+  },
+  "prionailurus bengalensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kucing kuwuk"
+  },
+  "prionailurus planiceps": {
+    "category": "Dilindungi",
+    "indonesian_name": "kucing tandang"
+  },
+  "prionailurus viverrinus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kucing bakau mawas sumatera/ orangutan"
+  },
+  "pongo abelii": {
+    "category": "Dilindungi",
+    "indonesian_name": "sumatera mawas kalimantan/ orangutan"
+  },
+  "pongo pygmaeus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kalimantan mawas tapanuli/ orangutan"
+  },
+  "pongo tapanuliensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "tapanuli"
+  },
+  "hylobates agilis": {
+    "category": "Dilindungi",
+    "indonesian_name": "owa ungko"
+  },
+  "hylobates albibarbis": {
+    "category": "Dilindungi",
+    "indonesian_name": "owa jenggot putih"
+  },
+  "hylobates klosii": {
+    "category": "Dilindungi",
+    "indonesian_name": "owa bilau"
+  },
+  "hylobates lar": {
+    "category": "Dilindungi",
+    "indonesian_name": "owa serudung"
+  },
+  "hylobates moloch": {
+    "category": "Dilindungi",
+    "indonesian_name": "owa jawa"
+  },
+  "hylobates muelleri": {
+    "category": "Dilindungi",
+    "indonesian_name": "owa kalawat"
+  },
+  "symphalangus syndactylus": {
+    "category": "Dilindungi",
+    "indonesian_name": "owa siamang"
+  },
+  "hystrix javanica": {
+    "category": "Dilindungi",
+    "indonesian_name": "landak jawa"
+  },
+  "nesolagus netscheri": {
+    "category": "Dilindungi",
+    "indonesian_name": "kelinci sumatera"
+  },
+  "nycticebus coucang": {
+    "category": "Dilindungi",
+    "indonesian_name": "kukang"
+  },
+  "nycticebus javanicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kukang jawa"
+  },
+  "nycticebus menagensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kukang kalimantan"
+  },
+  "dendrolagus dorianus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kangguru pohon ndomea"
+  },
+  "dendrolagus goodfellowi": {
+    "category": "Dilindungi",
+    "indonesian_name": "kangguru pohon hias"
+  },
+  "dendrolagus inustus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kangguru pohon wakera"
+  },
+  "dendrolagus mbaiso": {
+    "category": "Dilindungi",
+    "indonesian_name": "kangguru pohon mbaiso"
+  },
+  "dendrolagus ursinus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kangguru pohon nemena"
+  },
+  "thylogale browni": {
+    "category": "Dilindungi",
+    "indonesian_name": "pelandu nugini"
+  },
+  "thylogale brunii": {
+    "category": "Dilindungi",
+    "indonesian_name": "pelandu aru"
+  },
+  "thylogale stigmatica": {
+    "category": "Dilindungi",
+    "indonesian_name": "pelandu merah"
+  },
+  "manis javanica": {
+    "category": "Dilindungi",
+    "indonesian_name": "trenggiling"
+  },
+  "arctonyx collaris": {
+    "category": "Dilindungi",
+    "indonesian_name": "sigung sumatera"
+  },
+  "lutra lutra": {
+    "category": "Dilindungi",
+    "indonesian_name": "berang-berang pantai"
+  },
+  "lutra sumatrana": {
+    "category": "Dilindungi",
+    "indonesian_name": "berang-berang gunung"
+  },
+  "lutrogale perspicillata": {
+    "category": "Dilindungi",
+    "indonesian_name": "berang-berang wregul"
+  },
+  "ailurops melanotis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus talaud"
+  },
+  "phalanger alexandrae": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus gebe"
+  },
+  "phalanger carmelitae": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus gunung"
+  },
+  "phalanger gymnotis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus guannal"
+  },
+  "phalanger intercastellanus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus selatan"
+  },
+  "phalanger matabiru": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus matabiru"
+  },
+  "phalanger rothschildi": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus obi"
+  },
+  "phalanger sericeus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus yaben"
+  },
+  "phalanger vestitus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus siku putih"
+  },
+  "spilocuscus maculatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus pontai"
+  },
+  "spilocuscus papuensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus scham-scham"
+  },
+  "spilocuscus rufoniger": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus bohai"
+  },
+  "strigocuscus celebensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus tembung"
+  },
+  "strigocuscus pelengensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuskus peleng"
+  },
+  "neophocaena phocaenoides": {
+    "category": "Dilindungi",
+    "indonesian_name": "lumba-lumba hitam tak bersirip"
+  },
+  "kogia breviceps": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus lodan kecil jauba"
+  },
+  "kogia sima": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus lodan kecil"
+  },
+  "physeter macrocephalus": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus sperma"
+  },
+  "prionodon linsang": {
+    "category": "Dilindungi",
+    "indonesian_name": "musang lingsang"
+  },
+  "acerodon humilis": {
+    "category": "Dilindungi",
+    "indonesian_name": "codot talaud"
+  },
+  "neopteryx frosti": {
+    "category": "Dilindungi",
+    "indonesian_name": "codot gigi kecil"
+  },
+  "pteropus pumilus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kalong talaud"
+  },
+  "dicerorhinus sumatrensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "badak sumatera"
+  },
+  "rhinoceros sondaicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "badak jawa"
+  },
+  "iomys horsfieldi": {
+    "category": "Dilindungi",
+    "indonesian_name": "cukbo ekor merah"
+  },
+  "lariscus hosei": {
+    "category": "Dilindungi",
+    "indonesian_name": "bokol borneo"
+  },
+  "babyrousa babyrussa": {
+    "category": "Dilindungi",
+    "indonesian_name": "babirusa tualangio"
+  },
+  "tachyglossus aculeatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "nokdiak moncong pendek"
+  },
+  "zaglossus bruijni": {
+    "category": "Dilindungi",
+    "indonesian_name": "nokdiak moncong panjang"
+  },
+  "tapirus indicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "tapir tenuk"
+  },
+  "tarsius bancanus": {
+    "category": "Dilindungi",
+    "indonesian_name": "krabuku ingkat"
+  },
+  "tarsius dentatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "krabuku diana"
+  },
+  "tarsius lariang": {
+    "category": "Dilindungi",
+    "indonesian_name": "tarsius lariang"
+  },
+  "tarsius pelengensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "krabuku peleng"
+  },
+  "tarsius pumilus": {
+    "category": "Dilindungi",
+    "indonesian_name": "krabuku kecil"
+  },
+  "tarsius sangirensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "krabuku sangihe"
+  },
+  "tarsius tarsier": {
+    "category": "Dilindungi",
+    "indonesian_name": "krabuku tangkasi"
+  },
+  "tarsius tumpara": {
+    "category": "Dilindungi",
+    "indonesian_name": "tarsius siau"
+  },
+  "tragulus javanicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "pelanduk kancil"
+  },
+  "tragulus kanchil": {
+    "category": "Dilindungi",
+    "indonesian_name": "kancil kecil"
+  },
+  "tragulus napu": {
+    "category": "Dilindungi",
+    "indonesian_name": "pelanduk napu"
+  },
+  "helarctos malayanus": {
+    "category": "Dilindungi",
+    "indonesian_name": "beruang madu"
+  },
+  "arctictis binturong": {
+    "category": "Dilindungi",
+    "indonesian_name": "binturong"
+  },
+  "cynogale bennettii": {
+    "category": "Dilindungi",
+    "indonesian_name": "musang air"
+  },
+  "macrogalidia musschenbroekii": {
+    "category": "Dilindungi",
+    "indonesian_name": "musang sulawesi"
+  },
+  "indopacetus pacificus": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus hidung botol"
+  },
+  "mesoplodon densirostris": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus paruh blainville"
+  },
+  "mesoplodon ginkgodens": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus paruh bergigi ginkgo"
+  },
+  "ziphius cavirostris": {
+    "category": "Dilindungi",
+    "indonesian_name": "paus paruh angsa"
+  },
+  "accipiter badius": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap shikra"
+  },
+  "accipiter cirrocephalus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap kalung"
+  },
+  "accipiter erythrauchen": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap maluku"
+  },
+  "accipiter fasciatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap coklat"
+  },
+  "accipiter griseiceps": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap kepala-kelabu"
+  },
+  "accipiter gularis": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap nipon"
+  },
+  "accipiter henicogrammus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap halmahera"
+  },
+  "accipiter hiogaster": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap kelabu"
+  },
+  "accipiter melanochlamys": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap mantel-hitam"
+  },
+  "accipiter meyerianus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap meyer"
+  },
+  "accipiter nanus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap kecil"
+  },
+  "accipiter nisus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap eurasia"
+  },
+  "accipiter poliocephalus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap pucat-sosonokan"
+  },
+  "accipiter rhodogaster": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap dada-merah"
+  },
+  "accipiter soloensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap p cina"
+  },
+  "accipiter sylvestris": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap tenggara"
+  },
+  "accipiter trinotatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap ekor-totol"
+  },
+  "accipiter trivirgatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap jambul"
+  },
+  "accipiter virgatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap besra"
+  },
+  "aquila audax": {
+    "category": "Dilindungi",
+    "indonesian_name": "rajawali ekor-baji"
+  },
+  "aquila fasciata": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang bonelli"
+  },
+  "aquila gurneyi": {
+    "category": "Dilindungi",
+    "indonesian_name": "rajawali kuskus"
+  },
+  "aviceda jerdoni": {
+    "category": "Dilindungi",
+    "indonesian_name": "baza jerdon"
+  },
+  "aviceda leuphotes": {
+    "category": "Dilindungi",
+    "indonesian_name": "baza hitam"
+  },
+  "aviceda subcristata": {
+    "category": "Dilindungi",
+    "indonesian_name": "baza pasifik"
+  },
+  "butastur indicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang kelabu"
+  },
+  "butastur liventer": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang sayap-coklat"
+  },
+  "butastur teesa": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang mata putih"
+  },
+  "buteo japonicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang buteo"
+  },
+  "circaetus gallicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangular jari-pendek"
+  },
+  "circus aeruginosus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangrawa katak"
+  },
+  "circus approximans": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangrawa coklat"
+  },
+  "circus assimilis": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangrawa tutul"
+  },
+  "circus melanoleucos": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangrawa tangling"
+  },
+  "circus spilonotus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangrawa timur"
+  },
+  "circus spilothorax": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangrawa papua"
+  },
+  "clanga clanga": {
+    "category": "Dilindungi",
+    "indonesian_name": "rajawali totol"
+  },
+  "elanus caeruleus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang tikus"
+  },
+  "erythrotriorchis buergersi": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap bahu coklat"
+  },
+  "gyps himalayensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "nasar himalaya"
+  },
+  "haliaeetus leucogaster": {
+    "category": "Dilindungi",
+    "indonesian_name": "elanglaut perut-putih"
+  },
+  "haliastur indus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang bondol"
+  },
+  "haliastur sphenurus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang siul"
+  },
+  "harpyopsis novaeguineae": {
+    "category": "Dilindungi",
+    "indonesian_name": "rajawali papua"
+  },
+  "henicopernis longicauda": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang ekor-panjang"
+  },
+  "hieraaetus pennatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang setiwel"
+  },
+  "hieraaetus weiskei": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang kecil"
+  },
+  "ichthyophaga humilis": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangikan kecil"
+  },
+  "ichthyophaga ichthyaetus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangikan kepala-kelabu"
+  },
+  "ictinaetus malaiensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang hitam"
+  },
+  "lophotriorchis kienerii": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang perut-karat"
+  },
+  "macheiramphus alcinus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang kelelawar"
+  },
+  "megatriorchis doriae": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangalap doria"
+  },
+  "milvus migrans": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang paria"
+  },
+  "nisaetus alboniger": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang gunung"
+  },
+  "nisaetus bartelsi": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang jawa"
+  },
+  "nisaetus cirrhatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang brontok"
+  },
+  "nisaetus floris": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang flores"
+  },
+  "nisaetus lanceolatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang sulawesi"
+  },
+  "nisaetus nanus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang wallace"
+  },
+  "pandion haliaetus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elang tiram"
+  },
+  "pernis celebensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "sikepmadu sulawesi"
+  },
+  "pernis ptilorhynchus": {
+    "category": "Dilindungi",
+    "indonesian_name": "sikepmadu asia"
+  },
+  "spilornis cheela": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangular bido"
+  },
+  "spilornis kinabaluensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangular kinabalu"
+  },
+  "spilornis rufipectus": {
+    "category": "Dilindungi",
+    "indonesian_name": "elangular sulawesi"
+  },
+  "psaltria exilis": {
+    "category": "Dilindungi",
+    "indonesian_name": "cerecet jawa"
+  },
+  "actenoides capucinus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakak hutan kepala-hitam"
+  },
+  "actenoides concretus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakak hutan melayu"
+  },
+  "actenoides monachus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakak hutan tunggir-hijau"
+  },
+  "actenoides princeps": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakak hutan dada-sisik"
+  },
+  "alcedo euryzona": {
+    "category": "Dilindungi",
+    "indonesian_name": "rajaudang kalung-biru jawa"
+  },
+  "alcedo peninsulae": {
+    "category": "Dilindungi",
+    "indonesian_name": "rajaudang kalung-biru sumatera"
+  },
+  "caridonax fulgidus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakak tunggir-putih"
+  },
+  "ceyx sangirensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "rajaudang sangihe"
+  },
+  "dacelo tyro": {
+    "category": "Dilindungi",
+    "indonesian_name": "kukabura aru"
+  },
+  "tanysiptera carolinae": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakakpita numfor"
+  },
+  "tanysiptera ellioti": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakakpita kofiau"
+  },
+  "tanysiptera riedelii": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakakpita biak"
+  },
+  "todirhamphus australasia": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakak kalung-coklat"
+  },
+  "todirhamphus enigma": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakak talaud"
+  },
+  "todirhamphus funebris": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakak murung"
+  },
+  "todirhamphus lazuli": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakak lazuli"
+  },
+  "todirhamphus saurophagus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cekakak pantai"
+  },
+  "anseranas semipalmata": {
+    "category": "Dilindungi",
+    "indonesian_name": "boha wasur"
+  },
+  "cairina scutulata": {
+    "category": "Dilindungi",
+    "indonesian_name": "mentok rimba"
+  },
+  "nettapus coromandelianus": {
+    "category": "Dilindungi",
+    "indonesian_name": "trutu hijau"
+  },
+  "salvadorina waigiuensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "itik gunung"
+  },
+  "aerodramus vulcanorum": {
+    "category": "Dilindungi",
+    "indonesian_name": "walet gunung"
+  },
+  "hydrochous gigas": {
+    "category": "Dilindungi",
+    "indonesian_name": "walet raksasa"
+  },
+  "ardea alba": {
+    "category": "Dilindungi",
+    "indonesian_name": "cangak besar"
+  },
+  "ardea sumatrana": {
+    "category": "Dilindungi",
+    "indonesian_name": "cangak laut"
+  },
+  "ardeola bacchus": {
+    "category": "Dilindungi",
+    "indonesian_name": "blekok cina"
+  },
+  "egretta eulophotes": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuntul cina"
+  },
+  "egretta novaehollandiae": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuntul australia"
+  },
+  "egretta picata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuntul belang"
+  },
+  "gorsachius goisagi": {
+    "category": "Dilindungi",
+    "indonesian_name": "kowak jepang"
+  },
+  "gorsachius melanolophus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kowak melayu"
+  },
+  "ixobrychus eurhythmus": {
+    "category": "Dilindungi",
+    "indonesian_name": "bambangan coklat"
+  },
+  "ixobrychus flavicollis": {
+    "category": "Dilindungi",
+    "indonesian_name": "bambangan hitam"
+  },
+  "nycticorax caledonicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kowakmalam merah bambangan rimba"
+  },
+  "zonerodius heliosylus": {
+    "category": "Dilindungi",
+    "indonesian_name": ""
+  },
+  "anorrhinus galeritus": {
+    "category": "Dilindungi",
+    "indonesian_name": "enggang klihingan"
+  },
+  "anthracoceros albirostris": {
+    "category": "Dilindungi",
+    "indonesian_name": "kangkareng perut-putih"
+  },
+  "anthracoceros malayanus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kangkareng hitam"
+  },
+  "berenicornis comatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "enggang jambul"
+  },
+  "buceros bicornis": {
+    "category": "Dilindungi",
+    "indonesian_name": "enggang papan"
+  },
+  "buceros rhinoceros": {
+    "category": "Dilindungi",
+    "indonesian_name": "enggang cula"
+  },
+  "rhabdotorrhinus corrugatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "julang jambul-hitam"
+  },
+  "rhabdotorrhinus exarhatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kangkareng sulawesi"
+  },
+  "rhinoplax vigil": {
+    "category": "Dilindungi",
+    "indonesian_name": "rangkong gading"
+  },
+  "rhyticeros cassidix": {
+    "category": "Dilindungi",
+    "indonesian_name": "julang sulawesi"
+  },
+  "rhyticeros everetti": {
+    "category": "Dilindungi",
+    "indonesian_name": "julang sumba"
+  },
+  "rhyticeros plicatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "julang irian"
+  },
+  "rhyticeros undulatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "julang emas"
+  },
+  "burhinus grallarius": {
+    "category": "Dilindungi",
+    "indonesian_name": "wili-wili semak"
+  },
+  "esacus magnirostris": {
+    "category": "Dilindungi",
+    "indonesian_name": "wili-wili besar"
+  },
+  "cacatua alba": {
+    "category": "Dilindungi",
+    "indonesian_name": "kakatua putih"
+  },
+  "cacatua galerita": {
+    "category": "Dilindungi",
+    "indonesian_name": "kakatua koki"
+  },
+  "cacatua goffiniana": {
+    "category": "Dilindungi",
+    "indonesian_name": "kakatua tanimbar"
+  },
+  "cacatua moluccensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kakatua maluku"
+  },
+  "cacatua sanguiena": {
+    "category": "Dilindungi",
+    "indonesian_name": "kakatua rawa"
+  },
+  "cacatua sulphurea": {
+    "category": "Dilindungi",
+    "indonesian_name": "kakatua jambul-kuning"
+  },
+  "probosciger aterrimus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kakatua raja"
+  },
+  "calorhamphus fuliginosus": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur ampis-kalimantan"
+  },
+  "caloramphus hayii": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur ampis-sumatera"
+  },
+  "psilopogon armillaris": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur tohtor"
+  },
+  "psilopogon chrysopogon": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur gedang"
+  },
+  "psilopogon corvinus": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur bututut"
+  },
+  "psilopogon eximius": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur leher-hitam"
+  },
+  "psilopogon henricii": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur topi-merah"
+  },
+  "psilopogon javensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur tulung-tumpuk"
+  },
+  "psilopogon lineatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur bultok"
+  },
+  "psilopogon monticola": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur gunung"
+  },
+  "psilopogon mystacophanos": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur warna-warni"
+  },
+  "psilopogon oorti": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur bukit"
+  },
+  "psilopogon pulcherrimus": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur tengkuk-emas"
+  },
+  "psilopogon pyrolophus": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur api"
+  },
+  "psilopogon rafflesii": {
+    "category": "Dilindungi",
+    "indonesian_name": "takur tutut"
+  },
+  "caprimulgus concretus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cabak kolong"
+  },
+  "eurostopodus diabolicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "taktarau iblis"
+  },
+  "casuarius bennetti": {
+    "category": "Dilindungi",
+    "indonesian_name": "kasuari kerdil"
+  },
+  "casuarius casuarius": {
+    "category": "Dilindungi",
+    "indonesian_name": "kasuari gelambir-ganda"
+  },
+  "casuarius unappendiculatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kasuari gelambir-tunggal"
+  },
+  "charadrius alexandrinus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cerek tilil"
+  },
+  "charadrius javanicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cerek jawa"
+  },
+  "charadrius placidus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cerek paruh-panjang"
+  },
+  "charadrius ruficapillus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cerek topi-merah"
+  },
+  "charadrius veredus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cerek asia"
+  },
+  "erythrogonys cinctus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cerek lutut-merah"
+  },
+  "vanellus indicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "trulek gelambir-merah"
+  },
+  "vanellus cinereus": {
+    "category": "Dilindungi",
+    "indonesian_name": "trulek kelabu"
+  },
+  "vanellus macropterus": {
+    "category": "Dilindungi",
+    "indonesian_name": "trulek jawa"
+  },
+  "vanellus miles": {
+    "category": "Dilindungi",
+    "indonesian_name": "trulek topeng"
+  },
+  "chloropsis media": {
+    "category": "Dilindungi",
+    "indonesian_name": "cica daun dahi-emas"
+  },
+  "chloropsis cochinchinensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "cica daun sayap-biru"
+  },
+  "chloropsis kinabaluensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "cica daun sayap-biru kalimantan"
+  },
+  "chloropsis moluccensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "cica daun sayap-biru sumatera"
+  },
+  "chloropsis cyanopogon": {
+    "category": "Dilindungi",
+    "indonesian_name": "cica daun Kecil"
+  },
+  "chloropsis sonnerati": {
+    "category": "Dilindungi",
+    "indonesian_name": "cica daun besar"
+  },
+  "chloropsis venusta": {
+    "category": "Dilindungi",
+    "indonesian_name": "cica daun sumatera"
+  },
+  "ciconia episcopus": {
+    "category": "Dilindungi",
+    "indonesian_name": "bangau sandang-lawe"
+  },
+  "ciconia stormi": {
+    "category": "Dilindungi",
+    "indonesian_name": "bangau storm"
+  },
+  "ephippiorhynchus asiaticus": {
+    "category": "Dilindungi",
+    "indonesian_name": "bangau leher-hitam"
+  },
+  "leptoptilos javanicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "bangau tongtong"
+  },
+  "mycteria cinerea": {
+    "category": "Dilindungi",
+    "indonesian_name": "bangau bluwok"
+  },
+  "cnemophilus loriae": {
+    "category": "Dilindungi",
+    "indonesian_name": "cenderawasih loria"
+  },
+  "cnemophilus sanguineus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cenderawasih jambul"
+  },
+  "loboparadisea sericea": {
+    "category": "Dilindungi",
+    "indonesian_name": "cenderawasih sutera"
+  },
+  "caloenas nicobarica": {
+    "category": "Dilindungi",
+    "indonesian_name": "junai emas"
+  },
+  "columba argentina": {
+    "category": "Dilindungi",
+    "indonesian_name": "merpatihutan perak"
+  },
+  "gallicolumba hoedtii": {
+    "category": "Dilindungi",
+    "indonesian_name": "delimukan wetar"
+  },
+  "goura cristata": {
+    "category": "Dilindungi",
+    "indonesian_name": "mambruk ubiaat"
+  },
+  "goura sclaterii": {
+    "category": "Dilindungi",
+    "indonesian_name": "mambruk selatan"
+  },
+  "goura victoria": {
+    "category": "Dilindungi",
+    "indonesian_name": "mambruk victoria"
+  },
+  "ptilinopus dohertyi": {
+    "category": "Dilindungi",
+    "indonesian_name": "walik rawa-manu"
+  },
+  "ptilinopus granulifrons": {
+    "category": "Dilindungi",
+    "indonesian_name": "walik benjol"
+  },
+  "treron psittaceus": {
+    "category": "Dilindungi",
+    "indonesian_name": "punai timor"
+  },
+  "treron teysmannii": {
+    "category": "Dilindungi",
+    "indonesian_name": "punai sumba"
+  },
+  "cissa chinensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "ekek layongan"
+  },
+  "cissa thalassina": {
+    "category": "Dilindungi",
+    "indonesian_name": "ekek geling"
+  },
+  "corvus florensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "gagak flores"
+  },
+  "corvus fuscicapillus": {
+    "category": "Dilindungi",
+    "indonesian_name": "gagak kepala-coklat"
+  },
+  "corvus orru": {
+    "category": "Dilindungi",
+    "indonesian_name": "gagak orru"
+  },
+  "corvus splendens": {
+    "category": "Dilindungi",
+    "indonesian_name": "gagak rumah"
+  },
+  "corvus tristis": {
+    "category": "Dilindungi",
+    "indonesian_name": "gagak kelabu"
+  },
+  "corvus typicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "gagak sulawesi"
+  },
+  "corvus unicolor": {
+    "category": "Dilindungi",
+    "indonesian_name": "gagak banggai"
+  },
+  "corvus validus": {
+    "category": "Dilindungi",
+    "indonesian_name": "gagak halmahera"
+  },
+  "crypsirina temia": {
+    "category": "Dilindungi",
+    "indonesian_name": "tangkar centrong"
+  },
+  "dendrocitta cinerascens": {
+    "category": "Dilindungi",
+    "indonesian_name": "tangkaruli kalimantan"
+  },
+  "dendrocitta occipitalis": {
+    "category": "Dilindungi",
+    "indonesian_name": "tangkaruli sumatera"
+  },
+  "platylophus galericulatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "tangkar ongklet"
+  },
+  "platysmurus leucopterus": {
+    "category": "Dilindungi",
+    "indonesian_name": "tangkar kambing"
+  },
+  "carpococcyx viridis": {
+    "category": "Dilindungi",
+    "indonesian_name": "tokhtor sumatra"
+  },
+  "centropus nigrorufus": {
+    "category": "Dilindungi",
+    "indonesian_name": "bubut jawa"
+  },
+  "centropus rectunguis": {
+    "category": "Dilindungi",
+    "indonesian_name": "bubut teragop"
+  },
+  "clamator coromandus": {
+    "category": "Dilindungi",
+    "indonesian_name": "bubutpacar jambul"
+  },
+  "cuculus crassirostris": {
+    "category": "Dilindungi",
+    "indonesian_name": "kangkok sulawesi"
+  },
+  "lonchura vana": {
+    "category": "Dilindungi",
+    "indonesian_name": "bondol arfak"
+  },
+  "lonchura oryzivora": {
+    "category": "Dilindungi",
+    "indonesian_name": "gelatik jawa"
+  },
+  "falco berigora": {
+    "category": "Dilindungi",
+    "indonesian_name": "alap-alap coklat"
+  },
+  "falco cenchroides": {
+    "category": "Dilindungi",
+    "indonesian_name": "alap-alap layang"
+  },
+  "falco longipennis": {
+    "category": "Dilindungi",
+    "indonesian_name": "alap-alap australia"
+  },
+  "falco moluccensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "alap-alap sapi"
+  },
+  "falco peregrinus": {
+    "category": "Dilindungi",
+    "indonesian_name": "alap-alap kawah"
+  },
+  "falco severus": {
+    "category": "Dilindungi",
+    "indonesian_name": "alap-alap macan"
+  },
+  "falco subbuteo": {
+    "category": "Dilindungi",
+    "indonesian_name": "alap-alap walet"
+  },
+  "falco tinnunculus": {
+    "category": "Dilindungi",
+    "indonesian_name": "alap-alap erasia"
+  },
+  "microhierax fringillarius": {
+    "category": "Dilindungi",
+    "indonesian_name": "alap-alap capung"
+  },
+  "microhierax latifrons": {
+    "category": "Dilindungi",
+    "indonesian_name": "alap-alap dahi putih"
+  },
+  "fregata andrewsi": {
+    "category": "Dilindungi",
+    "indonesian_name": "cikalang christmas"
+  },
+  "fregata minor": {
+    "category": "Dilindungi",
+    "indonesian_name": "cikalang besar"
+  },
+  "chrysocorythus estherae": {
+    "category": "Dilindungi",
+    "indonesian_name": "kenari melayu"
+  },
+  "glareola maldivarum": {
+    "category": "Dilindungi",
+    "indonesian_name": "terik asia"
+  },
+  "stiltia isabella": {
+    "category": "Dilindungi",
+    "indonesian_name": "terik australia"
+  },
+  "antigone rubicunda": {
+    "category": "Dilindungi",
+    "indonesian_name": "jenjang brolga"
+  },
+  "haematopus fuliginosus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kedidir kelam"
+  },
+  "haematopus longirostris": {
+    "category": "Dilindungi",
+    "indonesian_name": "kedidir belang"
+  },
+  "heliopais personatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "pedendang topeng"
+  },
+  "hydrobates matsudairae": {
+    "category": "Dilindungi",
+    "indonesian_name": "petrelbadai matsudairae"
+  },
+  "hydrobates monorhis": {
+    "category": "Dilindungi",
+    "indonesian_name": "petrelbadai swinhoe"
+  },
+  "indicator archipelagicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "pemandulebah asia"
+  },
+  "anous minutus": {
+    "category": "Dilindungi",
+    "indonesian_name": "camarangguk hitam"
+  },
+  "anous stolidus": {
+    "category": "Dilindungi",
+    "indonesian_name": "camarangguk coklat"
+  },
+  "chlidonias hybrida": {
+    "category": "Dilindungi",
+    "indonesian_name": "daralaut kumis"
+  },
+  "chlidonias leucopterus": {
+    "category": "Dilindungi",
+    "indonesian_name": "daralaut sayap-putih"
+  },
+  "gelochelidon nilotica": {
+    "category": "Dilindungi",
+    "indonesian_name": "daralaut tiram"
+  },
+  "gygis alba": {
+    "category": "Dilindungi",
+    "indonesian_name": "daralaut putih"
+  },
+  "hydroprogne caspia": {
+    "category": "Dilindungi",
+    "indonesian_name": "daralaut caspia"
+  },
+  "larus brunnicephalus": {
+    "category": "Dilindungi",
+    "indonesian_name": "camar kepala-coklat"
+  },
+  "larus fuscus": {
+    "category": "Dilindungi",
+    "indonesian_name": "camar baltik"
+  },
+  "larus novaehollandiae": {
+    "category": "Dilindungi",
+    "indonesian_name": "camar perak"
+  },
+  "larus ridibundus": {
+    "category": "Dilindungi",
+    "indonesian_name": "camar kepala-hitam"
+  },
+  "larus schistisagus": {
+    "category": "Dilindungi",
+    "indonesian_name": "camar punggung-abu"
+  },
+  "onychoprion aleuticus": {
+    "category": "Dilindungi",
+    "indonesian_name": "dara laut aleutian"
+  },
+  "onychoprion anaethetus": {
+    "category": "Dilindungi",
+    "indonesian_name": "dara laut batu"
+  },
+  "onychoprion fuscatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "dara laut sayap-hitam"
+  },
+  "onychoprion lunatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "dara laut fiji"
+  },
+  "sterna dougallii": {
+    "category": "Dilindungi",
+    "indonesian_name": "dara laut jambon"
+  },
+  "sterna hirundo": {
+    "category": "Dilindungi",
+    "indonesian_name": "dara laut biasa"
+  },
+  "sterna paradisea": {
+    "category": "Dilindungi",
+    "indonesian_name": "dara laut arktik"
+  },
+  "sterna sumatrana": {
+    "category": "Dilindungi",
+    "indonesian_name": "dara laut tengkuk-hitam"
+  },
+  "sterluna albifrons": {
+    "category": "Dilindungi",
+    "indonesian_name": "dara laut kecil"
+  },
+  "thalasseus bengalensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "dara laut benggala"
+  },
+  "thalasseus bergii": {
+    "category": "Dilindungi",
+    "indonesian_name": "dara laut jambul"
+  },
+  "thalasseus bernsteini": {
+    "category": "Dilindungi",
+    "indonesian_name": "dara laut cina"
+  },
+  "xema sabini": {
+    "category": "Dilindungi",
+    "indonesian_name": "camar sabine"
+  },
+  "garrulax bicolor": {
+    "category": "Dilindungi",
+    "indonesian_name": "poksai sumatra"
+  },
+  "garrulax leucolophus": {
+    "category": "Dilindungi",
+    "indonesian_name": "poksai jambul"
+  },
+  "garrulax rufifrons": {
+    "category": "Dilindungi",
+    "indonesian_name": "poksai kuda"
+  },
+  "laniellus albonotatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cica matahari"
+  },
+  "leiothrix laurinae": {
+    "category": "Dilindungi",
+    "indonesian_name": "mesia telinga-perak"
+  },
+  "aepypodius arfakianus": {
+    "category": "Dilindungi",
+    "indonesian_name": "maleo gunung"
+  },
+  "aepypodius bruijnii": {
+    "category": "Dilindungi",
+    "indonesian_name": "maleo waigeo"
+  },
+  "eulipoa wallacei": {
+    "category": "Dilindungi",
+    "indonesian_name": "gosong maluku"
+  },
+  "macrocephalon maleo": {
+    "category": "Dilindungi",
+    "indonesian_name": "maleo senkawor"
+  },
+  "megapodius bernsteinii": {
+    "category": "Dilindungi",
+    "indonesian_name": "gosong sula"
+  },
+  "megapodius cumingii": {
+    "category": "Dilindungi",
+    "indonesian_name": "gosong pilipina"
+  },
+  "megapodius decollatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "gosong papua"
+  },
+  "megapodius forstenii": {
+    "category": "Dilindungi",
+    "indonesian_name": "gosong forsten"
+  },
+  "megapodius freycinet": {
+    "category": "Dilindungi",
+    "indonesian_name": "gosong kelam"
+  },
+  "megapodius geelvinkianus": {
+    "category": "Dilindungi",
+    "indonesian_name": "gosong biak"
+  },
+  "megapodius reinwardt": {
+    "category": "Dilindungi",
+    "indonesian_name": "gosong kaki-merah"
+  },
+  "megapodius tenimberensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "gosong tanimbar"
+  },
+  "talegalla cuvieri": {
+    "category": "Dilindungi",
+    "indonesian_name": "maleo kamur"
+  },
+  "talegalla fuscirostris": {
+    "category": "Dilindungi",
+    "indonesian_name": "maleo paruh-hitam"
+  },
+  "talegalla jobiensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "maleo kerah-coklat"
+  },
+  "macgregoria pulchra": {
+    "category": "Dilindungi",
+    "indonesian_name": "cendrawasih elok"
+  },
+  "melipotes carolae": {
+    "category": "Dilindungi",
+    "indonesian_name": "melipotes foja"
+  },
+  "melipotes fumigatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "melipotes pipi-kuning"
+  },
+  "melipotes gymnops": {
+    "category": "Dilindungi",
+    "indonesian_name": "melipotes arfak"
+  },
+  "meropogon forsteni": {
+    "category": "Dilindungi",
+    "indonesian_name": "cirik-cirik sulawesi"
+  },
+  "eutrichomyias rowleyi": {
+    "category": "Dilindungi",
+    "indonesian_name": "seriwang sangihe"
+  },
+  "symposiachrus boanensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kehicap boano"
+  },
+  "symposiachrus brehmii": {
+    "category": "Dilindungi",
+    "indonesian_name": "kehicap biak"
+  },
+  "symposiachrus everetti": {
+    "category": "Dilindungi",
+    "indonesian_name": "kehicap tanah-jampea"
+  },
+  "symposiachrus julianae": {
+    "category": "Dilindungi",
+    "indonesian_name": "kehicap kofiau"
+  },
+  "symposiachrus sacerdotum": {
+    "category": "Dilindungi",
+    "indonesian_name": "kehicap flores"
+  },
+  "cyornis concretus": {
+    "category": "Dilindungi",
+    "indonesian_name": "sikatan besar"
+  },
+  "cyornis ruckii": {
+    "category": "Dilindungi",
+    "indonesian_name": "sikatan aceh"
+  },
+  "cyornis sanfordi": {
+    "category": "Dilindungi",
+    "indonesian_name": "sikatan matinan"
+  },
+  "cynornis brunneatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "sikatanrimba coklat"
+  },
+  "muscicapa sodhii": {
+    "category": "Dilindungi",
+    "indonesian_name": "sikatanrimba sulawesi"
+  },
+  "aethopyga duyvenbodei": {
+    "category": "Dilindungi",
+    "indonesian_name": "burung madu sangihe"
+  },
+  "aethopyga mystacalis": {
+    "category": "Dilindungi",
+    "indonesian_name": "burung madu jawa"
+  },
+  "aethopyga siparaja": {
+    "category": "Dilindungi",
+    "indonesian_name": "burung madu sepah-raja"
+  },
+  "anthreptes rhodolaemus": {
+    "category": "Dilindungi",
+    "indonesian_name": "burung madu leher-merah"
+  },
+  "cinnyris buettikoferi": {
+    "category": "Dilindungi",
+    "indonesian_name": "burung madu sumba"
+  },
+  "oceanites oceanicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "petrelbadai coklat"
+  },
+  "pelagodroma marina": {
+    "category": "Dilindungi",
+    "indonesian_name": "petrelbadai muka-putih"
+  },
+  "ardeotis australis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kalkunpadang australia"
+  },
+  "astrapia nigra": {
+    "category": "Dilindungi",
+    "indonesian_name": "astrapia arfak"
+  },
+  "astrapia splendidissima": {
+    "category": "Dilindungi",
+    "indonesian_name": "astrapia cemerlang"
+  },
+  "cicinnurus magnificus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cendrawasih belah-rotan"
+  },
+  "cicinnurus regius": {
+    "category": "Dilindungi",
+    "indonesian_name": "cendrawasih raja"
+  },
+  "cicinnurus respublica": {
+    "category": "Dilindungi",
+    "indonesian_name": "cendrawasih botak"
+  },
+  "drepanornis albertisi": {
+    "category": "Dilindungi",
+    "indonesian_name": "paruh sabit ekor-kuning"
+  },
+  "drepanornis bruijnii": {
+    "category": "Dilindungi",
+    "indonesian_name": "paruh sabit paruh-putih"
+  },
+  "epimachus fastosus": {
+    "category": "Dilindungi",
+    "indonesian_name": "paruh sabit kuri-kuri"
+  },
+  "epimachus meyeri": {
+    "category": "Dilindungi",
+    "indonesian_name": "paruh sabit coklat"
+  },
+  "lophorina magnifica": {
+    "category": "Dilindungi",
+    "indonesian_name": "toowa cemerlang"
+  },
+  "lophorina superba": {
+    "category": "Dilindungi",
+    "indonesian_name": "cendrawasih kerah"
+  },
+  "lycocorax obiensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "cenderawasih gagak-obi"
+  },
+  "lycocorax pyrrhopterus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cendrawasih gagak"
+  },
+  "manucodia ater": {
+    "category": "Dilindungi",
+    "indonesian_name": "manukodia kilap"
+  },
+  "manucodia chalybatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "manukodia leher-keriting"
+  },
+  "manucodia jobiensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "manukodia jobi"
+  },
+  "paradigalla brevicauda": {
+    "category": "Dilindungi",
+    "indonesian_name": "paradigalla ibinimi"
+  },
+  "paradigalla carunculata": {
+    "category": "Dilindungi",
+    "indonesian_name": "paradigalla ekor-panjang"
+  },
+  "paradisaea apoda": {
+    "category": "Dilindungi",
+    "indonesian_name": "cendrawasih besar"
+  },
+  "paradisaea minor": {
+    "category": "Dilindungi",
+    "indonesian_name": "cendrawasih kecil"
+  },
+  "paradisaea rubra": {
+    "category": "Dilindungi",
+    "indonesian_name": "cendrawasih merah"
+  },
+  "parotia berlepschi": {
+    "category": "Dilindungi",
+    "indonesian_name": "parotia foja"
+  },
+  "parotia carolae": {
+    "category": "Dilindungi",
+    "indonesian_name": "parotia carola"
+  },
+  "parotia sefilata": {
+    "category": "Dilindungi",
+    "indonesian_name": "parotia arfak"
+  },
+  "phonygammus keraudrenii": {
+    "category": "Dilindungi",
+    "indonesian_name": "manukodia terompet"
+  },
+  "pteridophora alberti": {
+    "category": "Dilindungi",
+    "indonesian_name": "cendrawasih panji"
+  },
+  "seleucidis melanoleucus": {
+    "category": "Dilindungi",
+    "indonesian_name": "cendrawasih mati-kawat"
+  },
+  "semioptera wallacii": {
+    "category": "Dilindungi",
+    "indonesian_name": "bidadari halmahera"
+  },
+  "pelecanus conspicillatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "undan kacamata"
+  },
+  "pelecanus onocrotalus": {
+    "category": "Dilindungi",
+    "indonesian_name": "undan putih"
+  },
+  "pelecanus philippensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "undan paruh-totol"
+  },
+  "ptilocichla leucogrammica": {
+    "category": "Dilindungi",
+    "indonesian_name": "berencet kalimantan"
+  },
+  "turdinus macrodactylus": {
+    "category": "Dilindungi",
+    "indonesian_name": "berencet besar"
+  },
+  "petroica archboldi": {
+    "category": "Dilindungi",
+    "indonesian_name": "robin salju"
+  },
+  "petroica bivittata": {
+    "category": "Dilindungi",
+    "indonesian_name": "robin gunung"
+  },
+  "phaethon lepturus": {
+    "category": "Dilindungi",
+    "indonesian_name": "buntutsate putih"
+  },
+  "phaethon rubricauda": {
+    "category": "Dilindungi",
+    "indonesian_name": "buntutsate merah"
+  },
+  "anhinga melanogaster": {
+    "category": "Dilindungi",
+    "indonesian_name": "pecukular asia"
+  },
+  "phalaropus lobatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "lakirumbai kecil"
+  },
+  "argusianus argus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuau raja"
+  },
+  "lophura bulweri": {
+    "category": "Dilindungi",
+    "indonesian_name": "sempidan kalimantan"
+  },
+  "pavo muticus": {
+    "category": "Dilindungi",
+    "indonesian_name": "merak hijau"
+  },
+  "polyplectron chalcurum": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuaukerdil sumatera"
+  },
+  "polyplectron schleiermacheri": {
+    "category": "Dilindungi",
+    "indonesian_name": "kuaukerdil kalimantan"
+  },
+  "mulleripicus fulvus": {
+    "category": "Dilindungi",
+    "indonesian_name": "pelatuk kelabu-sulawesi"
+  },
+  "mulleripicus pulverulentus": {
+    "category": "Dilindungi",
+    "indonesian_name": "pelatuk kelabu-besar"
+  },
+  "erythropitta arquata": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok kalung-biru"
+  },
+  "erythropitta dohertyi": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok dohertyi"
+  },
+  "erythropitta granatina": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok delima"
+  },
+  "erythropitta venusta": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok topi-hitam"
+  },
+  "erythropitta caeruleitorques": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok mopo-sangihe"
+  },
+  "erythropitta celebensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok mopo-sulawesi"
+  },
+  "erythropitta inspeculata": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok mopo-talaud"
+  },
+  "erythropitta macklotii": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok mopo-papua"
+  },
+  "erythropitta palliceps": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok mopo-siau"
+  },
+  "erythropitta rubrinucha": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok mopo-amboyna"
+  },
+  "erythropitta rufiventris": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok mopo-sultan"
+  },
+  "hydrornis baudii": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok kepala-biru"
+  },
+  "hydrornis caeruleus": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok sintau"
+  },
+  "hydrornis schneideri": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok schneider"
+  },
+  "hydrornis guajanus": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok pancawarna-jawa"
+  },
+  "hydrornis irena": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok pancawarna-sumatera"
+  },
+  "hydrornis schwaneri": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok pancawarna-kalimantan"
+  },
+  "pitta elegans": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok laus"
+  },
+  "pitta maxima": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok halmahera"
+  },
+  "pitta megarhyncha": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok bakau"
+  },
+  "pitta moluccensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok hujan"
+  },
+  "pitta morotaiensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok morotai"
+  },
+  "pitta nympha": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok bidadari"
+  },
+  "pitta rosenbergii": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok hijau-biak"
+  },
+  "pitta sordida": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok hijau"
+  },
+  "pitta versicolor": {
+    "category": "Dilindungi",
+    "indonesian_name": "paok lantang"
+  },
+  "batrachostomus harterti": {
+    "category": "Dilindungi",
+    "indonesian_name": "paruhkodok dulit"
+  },
+  "podiceps cristatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "titihan jambul"
+  },
+  "tachybaptus novaehollandiae": {
+    "category": "Dilindungi",
+    "indonesian_name": "titihan australia"
+  },
+  "tachybaptus ruficollis": {
+    "category": "Dilindungi",
+    "indonesian_name": "titihan jelaga"
+  },
+  "ardenna carneipes": {
+    "category": "Dilindungi",
+    "indonesian_name": "penggunting-laut kaki-merah"
+  },
+  "ardenna pacifica": {
+    "category": "Dilindungi",
+    "indonesian_name": "penggunting-laut pasifik"
+  },
+  "bulweria bulwerii": {
+    "category": "Dilindungi",
+    "indonesian_name": "petrel bulwer"
+  },
+  "bulweria fallax": {
+    "category": "Dilindungi",
+    "indonesian_name": "petrel hindia"
+  },
+  "calonectris leucomelas": {
+    "category": "Dilindungi",
+    "indonesian_name": "penggunting-laut belang"
+  },
+  "daption capense": {
+    "category": "Dilindungi",
+    "indonesian_name": "petrel tanjung"
+  },
+  "pachyptila desolata": {
+    "category": "Dilindungi",
+    "indonesian_name": "petrel antartika"
+  },
+  "pseudobulweria rostrata": {
+    "category": "Dilindungi",
+    "indonesian_name": "petrel tahiti"
+  },
+  "pterodorma baraui": {
+    "category": "Dilindungi",
+    "indonesian_name": "petrel barau"
+  },
+  "pterodorma sandwichensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "petrel galapagos"
+  },
+  "puffinus heinrothi": {
+    "category": "Dilindungi",
+    "indonesian_name": "penggunting-laut heinroth"
+  },
+  "alisterus amboinensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-raja ambon"
+  },
+  "alisterus chloropterus": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-raja sayap-kuning"
+  },
+  "aprosmictus erythropterus": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-raja papua"
+  },
+  "aprosmictus jonquillaceus": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-raja kembang"
+  },
+  "chalcopsitta atra": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri hitam"
+  },
+  "chalcopsitta duivenbodei": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri coklat"
+  },
+  "chalcopsitta scintillata": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri aru"
+  },
+  "charmosyna josefinae": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici josephina"
+  },
+  "charmosyna multistriata": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici garis"
+  },
+  "charmosyna papou": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici papua"
+  },
+  "charmosyna placentis": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici dagu-merah"
+  },
+  "charmosyna pulchella": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici punggung-hitam"
+  },
+  "charmosyna rubronotata": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici kepala-merah"
+  },
+  "charmosyna stellae": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici stella"
+  },
+  "charmosyna toxopei": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici buru"
+  },
+  "charmosyna wilhelminae": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici kerdil"
+  },
+  "cyclopsitta diophthalma": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-ara mata-ganda"
+  },
+  "cyclopsitta gulielmitertii": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-ara dada-jingga"
+  },
+  "cyclopsitta melanogenia": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-ara pipi-hitam"
+  },
+  "cyclopsitta nigrifrons": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-ara dahi-hitam"
+  },
+  "eclectus roratus": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri bayan"
+  },
+  "eos bornea": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri baluku"
+  },
+  "eos cyanogenia": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri sayap-hitam"
+  },
+  "eos histrio": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri talaud"
+  },
+  "eos reticulata": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri tanimbar"
+  },
+  "eos semilarvata": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri telinga-biru"
+  },
+  "eos squamata": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri kalung-ungu"
+  },
+  "geoffroyus geoffroyi": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri pipi-merah"
+  },
+  "geoffroyus simplex": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri kalung-biru"
+  },
+  "loriculus amabilis": {
+    "category": "Dilindungi",
+    "indonesian_name": "serindit maluku"
+  },
+  "loriculus aurantiifrons": {
+    "category": "Dilindungi",
+    "indonesian_name": "serindit papua"
+  },
+  "loriculus catamene": {
+    "category": "Dilindungi",
+    "indonesian_name": "serindit sangihe"
+  },
+  "loriculus exilis": {
+    "category": "Dilindungi",
+    "indonesian_name": "serindit paruh-merah"
+  },
+  "loriculus flosculus": {
+    "category": "Dilindungi",
+    "indonesian_name": "serindit flores"
+  },
+  "loriculus galgulus": {
+    "category": "Dilindungi",
+    "indonesian_name": "serindit melayu"
+  },
+  "loriculus pusillus": {
+    "category": "Dilindungi",
+    "indonesian_name": "serindit jawa"
+  },
+  "loriculus sclateri": {
+    "category": "Dilindungi",
+    "indonesian_name": "serindit sula"
+  },
+  "loriculus stigmatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "serindit sulawesi"
+  },
+  "lorius domicella": {
+    "category": "Dilindungi",
+    "indonesian_name": "kasturi tengkuk-ungu"
+  },
+  "lorius garrulus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kasturi ternate"
+  },
+  "lorius lory": {
+    "category": "Dilindungi",
+    "indonesian_name": "kasturi kepala-hitam"
+  },
+  "micropsitta bruijnii": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-kate dada-merah"
+  },
+  "micropsitta geelvinkiana": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-kategeelvink"
+  },
+  "micropsitta keiensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-kate topi-kuning"
+  },
+  "micropsitta pusio": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-kate pusio"
+  },
+  "neopsittacus musschenbroeki": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici paruh-kuning"
+  },
+  "neopsittacus pullicauda": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici paruh-jingga"
+  },
+  "oreopsittacus arfaki": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici arfak"
+  },
+  "prioniturus flavicans": {
+    "category": "Dilindungi",
+    "indonesian_name": "kringkring dada-kuning"
+  },
+  "prioniturus mada": {
+    "category": "Dilindungi",
+    "indonesian_name": "kringkring buru"
+  },
+  "prioniturus platurus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kringkring bukit"
+  },
+  "pseudeos fuscata": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri kelam"
+  },
+  "psittacella brehmii": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-macan brehm"
+  },
+  "psittacella lorentzi": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-macan lorentz"
+  },
+  "psittacella madaraszi": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-macan madarasz"
+  },
+  "psittacella modesta": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-macan sederhana"
+  },
+  "psittacella picta": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-macan berbiru"
+  },
+  "psittacula alexandri": {
+    "category": "Dilindungi",
+    "indonesian_name": "betet biasa"
+  },
+  "psittacula longicauda": {
+    "category": "Dilindungi",
+    "indonesian_name": "betet ekor-panjang"
+  },
+  "psittaculirostris cervicalis": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-ara muka-merah"
+  },
+  "psittaculirostris desmarestii": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-ara besar"
+  },
+  "psittaculirostris edwardsii": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-araedward"
+  },
+  "psittaculirostris godmani": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-ara kuduk-kuning"
+  },
+  "psittaculirostris salvadorii": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri-ara pipi-kuning"
+  },
+  "psitteuteles goldiei": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici lembayung"
+  },
+  "psitteuteles iris": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici iris"
+  },
+  "psittinus cyanurus": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri tanau"
+  },
+  "psittrichas fulgidus": {
+    "category": "Dilindungi",
+    "indonesian_name": "nuri kabare"
+  },
+  "tanygnathus gramineus": {
+    "category": "Dilindungi",
+    "indonesian_name": "betet-kelapa buru"
+  },
+  "tanygnathus lucionensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "betet-kelapa filipina"
+  },
+  "tanygnathus megalorynchos": {
+    "category": "Dilindungi",
+    "indonesian_name": "betet-kelapa paruh-besar"
+  },
+  "tanygnathus sumatranus": {
+    "category": "Dilindungi",
+    "indonesian_name": "betet-kelapa punggung-biru"
+  },
+  "trichoglossus capistratus": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici oranye"
+  },
+  "trichoglossus euteles": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici timor"
+  },
+  "trichoglossus flavoviridis": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici kuning-hijau"
+  },
+  "trichoglossus forsteni": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici dada-merah"
+  },
+  "trichoglossus haematodus": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici pelangi"
+  },
+  "trichoglossus meyeri": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici kuning-gelap"
+  },
+  "trichoglossus ornatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici dora"
+  },
+  "trichoglossus rosenbergii": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici biak"
+  },
+  "trichoglossus weberi": {
+    "category": "Dilindungi",
+    "indonesian_name": "perkici flores"
+  },
+  "ailuroedus buccoides": {
+    "category": "Dilindungi",
+    "indonesian_name": "burungkucing kuping-putih"
+  },
+  "ailuroedus melanotis": {
+    "category": "Dilindungi",
+    "indonesian_name": "burungkucing tutul"
+  },
+  "amblyornis flavifrons": {
+    "category": "Dilindungi",
+    "indonesian_name": "namdur dahi-emas"
+  },
+  "amblyornis inornata": {
+    "category": "Dilindungi",
+    "indonesian_name": "namdur polos"
+  },
+  "amblyornis macgregoriae": {
+    "category": "Dilindungi",
+    "indonesian_name": "namdur jambul-emas"
+  },
+  "archboldia papuensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "namdur archbold"
+  },
+  "chlamydera cerviniventris": {
+    "category": "Dilindungi",
+    "indonesian_name": "namdur coklat"
+  },
+  "chlamydera lauterbachi": {
+    "category": "Dilindungi",
+    "indonesian_name": "namdur dada-kuning"
+  },
+  "sericulus ardens": {
+    "category": "Dilindungi",
+    "indonesian_name": "namdur api"
+  },
+  "sericulus aureus": {
+    "category": "Dilindungi",
+    "indonesian_name": "namdur topeng"
+  },
+  "setornis criniger": {
+    "category": "Dilindungi",
+    "indonesian_name": "empuloh paruh-kait"
+  },
+  "amaurornis magnirostris": {
+    "category": "Dilindungi",
+    "indonesian_name": "kareo talaud"
+  },
+  "aramidopsis plateni": {
+    "category": "Dilindungi",
+    "indonesian_name": "mandar dengkur"
+  },
+  "eulabeornis castaneoventris": {
+    "category": "Dilindungi",
+    "indonesian_name": "mandar bakau"
+  },
+  "gymnocrex rosenbergii": {
+    "category": "Dilindungi",
+    "indonesian_name": "mandar mukabiru"
+  },
+  "gymnocrex talaudensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "mandar talaud"
+  },
+  "habroptila wallacii": {
+    "category": "Dilindungi",
+    "indonesian_name": "mandar gendang"
+  },
+  "megacrex inepta": {
+    "category": "Dilindungi",
+    "indonesian_name": "mandar kasuari"
+  },
+  "rallicula forbesi": {
+    "category": "Dilindungi",
+    "indonesian_name": "mandargunung koma"
+  },
+  "rallicula leucospila": {
+    "category": "Dilindungi",
+    "indonesian_name": "mandargunung garis-putih"
+  },
+  "rallicula mayri": {
+    "category": "Dilindungi",
+    "indonesian_name": "mandargunung mayr"
+  },
+  "porzana paykullii": {
+    "category": "Dilindungi",
+    "indonesian_name": "tikusan siberia"
+  },
+  "porzana tabuensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "tikusan polos"
+  },
+  "himantopus himantopus": {
+    "category": "Dilindungi",
+    "indonesian_name": "gagangbayang belang"
+  },
+  "rhipidura euryura": {
+    "category": "Dilindungi",
+    "indonesian_name": "kipasan bukit"
+  },
+  "rhipidura javanica": {
+    "category": "Dilindungi",
+    "indonesian_name": "kipasan belang"
+  },
+  "rhipidura phoenicura": {
+    "category": "Dilindungi",
+    "indonesian_name": "kipasan ekor-merah"
+  },
+  "rostratula benghalensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "berkik-kembang besar"
+  },
+  "limnodromus scolopaceus": {
+    "category": "Dilindungi",
+    "indonesian_name": "trinil-lumpur paruh-panjang"
+  },
+  "limnodromus semipalmatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "trinil-lumpur asia"
+  },
+  "numenius arquata": {
+    "category": "Dilindungi",
+    "indonesian_name": "gajahan erasia"
+  },
+  "numenius madagascariensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "gajahan timur"
+  },
+  "numenius minutus": {
+    "category": "Dilindungi",
+    "indonesian_name": "gajahan kecil"
+  },
+  "numenius phaeopus": {
+    "category": "Dilindungi",
+    "indonesian_name": "gajahan penggala"
+  },
+  "scolopax celebensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "berkik-gunung sulawesi"
+  },
+  "scolopax rochussenii": {
+    "category": "Dilindungi",
+    "indonesian_name": "berkik-gunung maluku"
+  },
+  "scolopax rosenbergii": {
+    "category": "Dilindungi",
+    "indonesian_name": "berkik-gunung papua"
+  },
+  "scolopax saturata": {
+    "category": "Dilindungi",
+    "indonesian_name": "berkik-gunung merah"
+  },
+  "tringa erythropus": {
+    "category": "Dilindungi",
+    "indonesian_name": "trinil tutul"
+  },
+  "tringa flavipes": {
+    "category": "Dilindungi",
+    "indonesian_name": "trinil kaki-kuning"
+  },
+  "tringa guttifer": {
+    "category": "Dilindungi",
+    "indonesian_name": "trinil nordmann"
+  },
+  "tringa incana": {
+    "category": "Dilindungi",
+    "indonesian_name": "trinil penjelajah"
+  },
+  "tringa ochropus": {
+    "category": "Dilindungi",
+    "indonesian_name": "trinil hijau"
+  },
+  "catharacta maccormicki": {
+    "category": "Dilindungi",
+    "indonesian_name": "skua kutub"
+  },
+  "stercorarius longicaudus": {
+    "category": "Dilindungi",
+    "indonesian_name": "camarkejar kecil"
+  },
+  "stercorarius parasiticus": {
+    "category": "Dilindungi",
+    "indonesian_name": "camarkejar arktika"
+  },
+  "stercorarius pomarinus": {
+    "category": "Dilindungi",
+    "indonesian_name": "camarkejar pomarin"
+  },
+  "ninox burhani": {
+    "category": "Dilindungi",
+    "indonesian_name": "pungguk togian"
+  },
+  "ninox ios": {
+    "category": "Dilindungi",
+    "indonesian_name": "pungguk merah-tua"
+  },
+  "otus alfredi": {
+    "category": "Dilindungi",
+    "indonesian_name": "celepuk flores"
+  },
+  "otus angelinae": {
+    "category": "Dilindungi",
+    "indonesian_name": "celepuk jawa"
+  },
+  "otus beccarii": {
+    "category": "Dilindungi",
+    "indonesian_name": "celepuk biak"
+  },
+  "otus brookii": {
+    "category": "Dilindungi",
+    "indonesian_name": "celepuk raja"
+  },
+  "otus collari": {
+    "category": "Dilindungi",
+    "indonesian_name": "celepuk sangihe"
+  },
+  "otus enganensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "celepuk enggano"
+  },
+  "otus jolandae": {
+    "category": "Dilindungi",
+    "indonesian_name": "celepuk rinjani"
+  },
+  "otus manadensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "celepuk sulawesi"
+  },
+  "otus mendeni": {
+    "category": "Dilindungi",
+    "indonesian_name": "celepuk banggai"
+  },
+  "otus mentawi": {
+    "category": "Dilindungi",
+    "indonesian_name": "celepuk mentawai"
+  },
+  "otus siaoensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "celepuk siau"
+  },
+  "otus umbra": {
+    "category": "Dilindungi",
+    "indonesian_name": "celepuk simalur"
+  },
+  "acridotheres melanopterus": {
+    "category": "Dilindungi",
+    "indonesian_name": "jalak putih-sayap hitam"
+  },
+  "acridotheres tricolor": {
+    "category": "Dilindungi",
+    "indonesian_name": "jalak putih – punggungabu"
+  },
+  "acridotheres tertius": {
+    "category": "Dilindungi",
+    "indonesian_name": "jalak putih – tunggirabu"
+  },
+  "gracula religiosa": {
+    "category": "Dilindungi",
+    "indonesian_name": "tiong emas"
+  },
+  "gracula robusta": {
+    "category": "Dilindungi",
+    "indonesian_name": "tiong nias"
+  },
+  "gracula venerata": {
+    "category": "Dilindungi",
+    "indonesian_name": "tiong nusa-tenggara"
+  },
+  "leucopsar rothschildii": {
+    "category": "Dilindungi",
+    "indonesian_name": "curik bali"
+  },
+  "papasula abbotti": {
+    "category": "Dilindungi",
+    "indonesian_name": "angsabatu christmas"
+  },
+  "sula dactylatra": {
+    "category": "Dilindungi",
+    "indonesian_name": "angsabatu topeng"
+  },
+  "sula leucogaster": {
+    "category": "Dilindungi",
+    "indonesian_name": "angsabatu coklat"
+  },
+  "sula sula": {
+    "category": "Dilindungi",
+    "indonesian_name": "angsabatu kakimerah"
+  },
+  "platalea regia": {
+    "category": "Dilindungi",
+    "indonesian_name": "ibis sendok raja"
+  },
+  "plegadis falcinellus": {
+    "category": "Dilindungi",
+    "indonesian_name": "ibis rokoroko"
+  },
+  "pseudibis davisoni": {
+    "category": "Dilindungi",
+    "indonesian_name": "ibis karau"
+  },
+  "threskiornis melanocephalus": {
+    "category": "Dilindungi",
+    "indonesian_name": "ibis cucukbesi"
+  },
+  "threskiornis moluccus": {
+    "category": "Dilindungi",
+    "indonesian_name": "ibis australia"
+  },
+  "threskiornis spinicollis": {
+    "category": "Dilindungi",
+    "indonesian_name": "ibis papua"
+  },
+  "stachyris grammiceps": {
+    "category": "Dilindungi",
+    "indonesian_name": "tepus dada-putih"
+  },
+  "apalharpactes reinwardtii": {
+    "category": "Dilindungi",
+    "indonesian_name": "luntur jawa"
+  },
+  "apalharpactes mackloti": {
+    "category": "Dilindungi",
+    "indonesian_name": "luntur sumatera"
+  },
+  "harpactes oreskios": {
+    "category": "Dilindungi",
+    "indonesian_name": "luntur diard"
+  },
+  "harpactes orrhophaeus": {
+    "category": "Dilindungi",
+    "indonesian_name": "luntur putri"
+  },
+  "harpactes duvaucelli": {
+    "category": "Dilindungi",
+    "indonesian_name": "luntur kepala-merah"
+  },
+  "harpactes diardii": {
+    "category": "Dilindungi",
+    "indonesian_name": "luntur kasumba"
+  },
+  "harpactes erythrocephalus": {
+    "category": "Dilindungi",
+    "indonesian_name": "luntur harimau"
+  },
+  "harpactes whiteheadi": {
+    "category": "Dilindungi",
+    "indonesian_name": "luntur tunggir-coklat"
+  },
+  "harpactes kasumba": {
+    "category": "Dilindungi",
+    "indonesian_name": "luntur kalimantan"
+  },
+  "cochoa azurea": {
+    "category": "Dilindungi",
+    "indonesian_name": "ciung-mungkal jawa"
+  },
+  "cochoa beccarii": {
+    "category": "Dilindungi",
+    "indonesian_name": "ciung-mungkal sumatera"
+  },
+  "turnix everetti": {
+    "category": "Dilindungi",
+    "indonesian_name": "gemak sumba"
+  },
+  "tyto inexspectata": {
+    "category": "Dilindungi",
+    "indonesian_name": "serak minahasa"
+  },
+  "tyto nigrobrunnea": {
+    "category": "Dilindungi",
+    "indonesian_name": "serak taliabu"
+  },
+  "heleia javanica": {
+    "category": "Dilindungi",
+    "indonesian_name": "opior jawa"
+  },
+  "zosterops flavus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kacamata jawa"
+  },
+  "zosterops nehrkorni": {
+    "category": "Dilindungi",
+    "indonesian_name": "kacamata sangihe"
+  },
+  "heleia wallacei": {
+    "category": "Dilindungi",
+    "indonesian_name": "kacamata wallacea"
+  },
+  "leptophryne cruentata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kodok merah"
+  },
+  "chlamydosaurus kingii": {
+    "category": "Dilindungi",
+    "indonesian_name": "soa payung"
+  },
+  "carettochelys insculpta": {
+    "category": "Dilindungi",
+    "indonesian_name": "labi-labi moncong babi"
+  },
+  "chelodina mccordii": {
+    "category": "Dilindungi",
+    "indonesian_name": "kura-kura rote"
+  },
+  "chelodina novaeguineae": {
+    "category": "Dilindungi",
+    "indonesian_name": "kura-kura papua leher panjang"
+  },
+  "caretta caretta": {
+    "category": "Dilindungi",
+    "indonesian_name": "penyu bromo"
+  },
+  "chelonia mydas": {
+    "category": "Dilindungi",
+    "indonesian_name": "penyu hijau"
+  },
+  "eretmochelys imbricata": {
+    "category": "Dilindungi",
+    "indonesian_name": "penyu sisik"
+  },
+  "lepidochelys olivacea": {
+    "category": "Dilindungi",
+    "indonesian_name": "penyu lekang"
+  },
+  "natator depressus": {
+    "category": "Dilindungi",
+    "indonesian_name": "penyu pipih"
+  },
+  "crocodylus novaeguineae": {
+    "category": "Dilindungi",
+    "indonesian_name": "buaya irian"
+  },
+  "crocodylus porosus": {
+    "category": "Dilindungi",
+    "indonesian_name": "buaya muara"
+  },
+  "crocodylus siamensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "buaya siam"
+  },
+  "tomistoma schlegelii": {
+    "category": "Dilindungi",
+    "indonesian_name": "buaya sinyulong"
+  },
+  "dermochelys coriacea": {
+    "category": "Dilindungi",
+    "indonesian_name": "penyu belimbing"
+  },
+  "batagur affinis": {
+    "category": "Dilindungi",
+    "indonesian_name": "biuku"
+  },
+  "batagur borneoensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "beluku"
+  },
+  "orlitia borneensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "bajuku"
+  },
+  "lanthanotus borneensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak kalimantan"
+  },
+  "malayophython timoriensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "sanca timor"
+  },
+  "morelia viridis": {
+    "category": "Dilindungi",
+    "indonesian_name": "sanca hijau"
+  },
+  "python bivittatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "sanca bodo"
+  },
+  "simalia boeleni": {
+    "category": "Dilindungi",
+    "indonesian_name": "sanca bulan"
+  },
+  "manouria emys": {
+    "category": "Dilindungi",
+    "indonesian_name": "baning coklat"
+  },
+  "chitra chitra": {
+    "category": "Dilindungi",
+    "indonesian_name": "labi-labi bintang"
+  },
+  "varanus auffenbergi": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak rote"
+  },
+  "varanus becarii": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak aru"
+  },
+  "varanus boehmei": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak waigeo"
+  },
+  "varanus indicus": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak maluku"
+  },
+  "varanus komodoensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak komodo"
+  },
+  "varanus melinus": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak banggai"
+  },
+  "varanus nebulosus": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak abu-abu"
+  },
+  "varanus panoptes": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak coklat"
+  },
+  "varanus prasinus": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak hijau"
+  },
+  "varanus reisingeri": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak misool"
+  },
+  "varanus similis": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak kerdil"
+  },
+  "varanus timorensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak timor"
+  },
+  "varanus togianus": {
+    "category": "Dilindungi",
+    "indonesian_name": "biawak togian"
+  },
+  "homaloptera gymnogaster": {
+    "category": "Dilindungi",
+    "indonesian_name": "selusur maninjau"
+  },
+  "balantiocheilos melanopterus": {
+    "category": "Dilindungi",
+    "indonesian_name": "ikan balashark"
+  },
+  "barbodes microps": {
+    "category": "Dilindungi",
+    "indonesian_name": "wader goa"
+  },
+  "neolissochilus thienemanni": {
+    "category": "Dilindungi",
+    "indonesian_name": "ikan batak"
+  },
+  "schismatorhynchus heterorhynchus": {
+    "category": "Dilindungi",
+    "indonesian_name": "pasa"
+  },
+  "himantura oxyrhyncha": {
+    "category": "Dilindungi",
+    "indonesian_name": "pari sungai tutul"
+  },
+  "himantura polylepis": {
+    "category": "Dilindungi",
+    "indonesian_name": "pari sungai raksasa"
+  },
+  "himantura signifer": {
+    "category": "Dilindungi",
+    "indonesian_name": "pari sungai pinggir putih"
+  },
+  "urolophus kaianus": {
+    "category": "Dilindungi",
+    "indonesian_name": "pari kai"
+  },
+  "latimeria menadoensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "ikan raja laut"
+  },
+  "chitala borneensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "belida borneo"
+  },
+  "chitala hypselonotus": {
+    "category": "Dilindungi",
+    "indonesian_name": "belida sumatra"
+  },
+  "chitala lopis": {
+    "category": "Dilindungi",
+    "indonesian_name": "belida lopis"
+  },
+  "notopterus notopterus": {
+    "category": "Dilindungi",
+    "indonesian_name": "belida jawa"
+  },
+  "scleropages formosus": {
+    "category": "Dilindungi",
+    "indonesian_name": "siluk kalimantan"
+  },
+  "scleropages jardinii": {
+    "category": "Dilindungi",
+    "indonesian_name": "siluk irian"
+  },
+  "anoxypristis cuspidata": {
+    "category": "Dilindungi",
+    "indonesian_name": "pari gergaji lancip"
+  },
+  "pristis clavata": {
+    "category": "Dilindungi",
+    "indonesian_name": "pari gergaji kerdil"
+  },
+  "pristis pristis": {
+    "category": "Dilindungi",
+    "indonesian_name": "pari gergaji gigi besar"
+  },
+  "pristis zijsron": {
+    "category": "Dilindungi",
+    "indonesian_name": "pari gergaji hijau"
+  },
+  "cethosia myrina": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu bidadari"
+  },
+  "ornithoptera aesacus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu sayap burung obi kupu-kupu sayap burung"
+  },
+  "ornithoptera chimaera": {
+    "category": "Dilindungi",
+    "indonesian_name": "chimaera kupu-kupu sayap burung"
+  },
+  "ornithoptera croesus": {
+    "category": "Dilindungi",
+    "indonesian_name": "wallace kupu-kupu sayap burung goliath"
+  },
+  "ornithoptera goliath": {
+    "category": "Dilindungi",
+    "indonesian_name": ""
+  },
+  "ornithoptera meridionalis": {
+    "category": "Dilindungi",
+    "indonesian_name": "meridionalis"
+  },
+  "ornithoptera paradisea": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu sayap burung surga kupu-kupu sayap burung"
+  },
+  "ornithoptera priamus": {
+    "category": "Dilindungi",
+    "indonesian_name": "priamus kupu-kupu sayap burung"
+  },
+  "ornithoptera rothschildi": {
+    "category": "Dilindungi",
+    "indonesian_name": "rothschildi kupu-kupu sayap burung"
+  },
+  "ornithoptera tithonus": {
+    "category": "Dilindungi",
+    "indonesian_name": "tithonus"
+  },
+  "trogonoptera brookiana": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja brooke"
+  },
+  "troides amphrysus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja malaya"
+  },
+  "troides andromache": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja borneo"
+  },
+  "troides criton": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu raja criton"
+  },
+  "troides cuneifera": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja cuneifera"
+  },
+  "troides dohertyi": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja talaud"
+  },
+  "troides haliphron": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja haliphron"
+  },
+  "troides helena": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja helena"
+  },
+  "troides hypolitus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja hypolitus"
+  },
+  "troides miranda": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja miranda kupu-kupu raja"
+  },
+  "troides oblongomaculatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "oblongomaculatus"
+  },
+  "troides plato": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja Timor"
+  },
+  "troides prattorum": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja prattorum"
+  },
+  "troides riedeli": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja tanimbar"
+  },
+  "troides vandepolli": {
+    "category": "Dilindungi",
+    "indonesian_name": "kupu-kupu raja vandepolli"
+  },
+  "troides meoris": {
+    "category": "Dilindungi",
+    "indonesian_name": ""
+  },
+  "birgus latro": {
+    "category": "Dilindungi",
+    "indonesian_name": "ketam kenari"
+  },
+  "cassis cornuta": {
+    "category": "Dilindungi",
+    "indonesian_name": "kepala kambing"
+  },
+  "nautilus pompilius": {
+    "category": "Dilindungi",
+    "indonesian_name": "Linne, 1758 nautilus berongga"
+  },
+  "charonia tritonis": {
+    "category": "Dilindungi",
+    "indonesian_name": "triton terompet"
+  },
+  "hippopus hippopus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kima tapak kuda"
+  },
+  "hippopus porcellanus": {
+    "category": "Dilindungi",
+    "indonesian_name": "kima cina IX. XIPHOSURA (KETAM TAPAL KUDA)"
+  },
+  "tachypleus gigas": {
+    "category": "Dilindungi",
+    "indonesian_name": "belangkas besar"
+  },
+  "tachypleus tridentatus": {
+    "category": "Dilindungi",
+    "indonesian_name": "belangkas tigaduri"
+  },
+  "carcinoscorpius rotundicauda": {
+    "category": "Dilindungi",
+    "indonesian_name": "belangkas padi"
+  },
+  "amorphophallus decus-silvae": {
+    "category": "Dilindungi",
+    "indonesian_name": "acung jangkung"
+  },
+  "amorphophallus titanum": {
+    "category": "Dilindungi",
+    "indonesian_name": "bunga bangkai raksasa damar putih"
+  },
+  "agathis labillardierei": {
+    "category": "Dilindungi",
+    "indonesian_name": ""
+  },
+  "borassodendron borneense": {
+    "category": "Dilindungi",
+    "indonesian_name": "bindang"
+  },
+  "caryota no": {
+    "category": "Dilindungi",
+    "indonesian_name": "palem ekor ikan"
+  },
+  "ceratolobus glaucescens": {
+    "category": "Dilindungi",
+    "indonesian_name": "palem jawa"
+  },
+  "johannesteijsmannia altifrons": {
+    "category": "Dilindungi",
+    "indonesian_name": "daun sang gajah"
+  },
+  "pigafetta filaris": {
+    "category": "Dilindungi",
+    "indonesian_name": "wanga"
+  },
+  "pinanga javana": {
+    "category": "Dilindungi",
+    "indonesian_name": "pinang jawa"
+  },
+  "anaphalis javanica": {
+    "category": "Dilindungi",
+    "indonesian_name": "edelweis"
+  },
+  "vatica javanica": {
+    "category": "Dilindungi",
+    "indonesian_name": "resak jawa"
+  },
+  "castanopsis argentea": {
+    "category": "Dilindungi",
+    "indonesian_name": "saninten"
+  },
+  "camptostemon philippinense": {
+    "category": "Dilindungi",
+    "indonesian_name": "kayu baluno filipina"
+  },
+  "heritiera globosa": {
+    "category": "Dilindungi",
+    "indonesian_name": "dungun besar"
+  },
+  "nepenthes adnata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar menggala"
+  },
+  "nepenthes adrianii": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar slamet"
+  },
+  "nepenthes albomarginata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar bibir putih"
+  },
+  "nepenthes aristolochioides": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar guci"
+  },
+  "nepenthes bicalcarata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar taji dua"
+  },
+  "nepenthes bongso": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar putri bungsu"
+  },
+  "nepenthes boschiana": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar daun sompitan"
+  },
+  "nepenthes campanulata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar lonceng"
+  },
+  "nepenthes clipeata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar kelam"
+  },
+  "nepenthes danseri": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar danser"
+  },
+  "nepenthes densiflora": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar bibir seksi"
+  },
+  "nepenthes diatas": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar bandahara"
+  },
+  "nepenthes dubia": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar tutup lidah"
+  },
+  "nepenthes ephippiata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar pelana"
+  },
+  "nepenthes epiphytica": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar epifit"
+  },
+  "nepenthes eustachya": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar rumah siput"
+  },
+  "nepenthes eymae": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar cawan"
+  },
+  "nepenthes fusca": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar tutup kunci"
+  },
+  "nepenthes glabrata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar gundul"
+  },
+  "nepenthes gymnamphora": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar pinggang seksi"
+  },
+  "nepenthes hamata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar tutup bersungut"
+  },
+  "nepenthes hirsuta": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar daun berbulu"
+  },
+  "nepenthes hispida": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar bulu sikat"
+  },
+  "nepenthes inermis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar trombon"
+  },
+  "nepenthes insignis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar bibir lebar"
+  },
+  "nepenthes izumiae": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar Izumi"
+  },
+  "nepenthes jacquelineae": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar Jaklin"
+  },
+  "nepenthes jamban": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar jamban"
+  },
+  "nepenthes klossii": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar antariksa"
+  },
+  "nepenthes lamii": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar Lam"
+  },
+  "nepenthes lavicola": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar lahar"
+  },
+  "nepenthes lingulata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar lidah panjang"
+  },
+  "nepenthes lowii": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar kukusan"
+  },
+  "nepenthes mapuluensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar mapulu"
+  },
+  "nepenthes maxima": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar maksimum"
+  },
+  "nepenthes mikei": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar pangulubao"
+  },
+  "nepenthes mollis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar kemal"
+  },
+  "nepenthes naga": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar naga"
+  },
+  "nepenthes neoguineensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar sayap rumbai"
+  },
+  "nepenthes nigra": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar hitam"
+  },
+  "nepenthes ovata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar bibir merekah"
+  },
+  "nepenthes paniculata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar malai"
+  },
+  "nepenthes papuana": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar papua"
+  },
+  "nepenthes pectinata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar bersisir"
+  },
+  "nepenthes pilosa": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar meroma"
+  },
+  "nepenthes pitopangii": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar gading"
+  },
+  "nepenthes rhombicaulis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar belah ketupat"
+  },
+  "nepenthes rigidifolia": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar daun kaku"
+  },
+  "nepenthes singalana": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar singgalang"
+  },
+  "nepenthes spathulata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar spatula"
+  },
+  "nepenthes spectabilis": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar bibir bergaris"
+  },
+  "nepenthes stenophylla": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar daun sempit"
+  },
+  "nepenthes sumatrana": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar sayap alur"
+  },
+  "nepenthes tentaculata": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar bersungut"
+  },
+  "nepenthes tobaica": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar toba"
+  },
+  "nepenthes tomoriana": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar tomori"
+  },
+  "nepenthes treubiana": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar Treub"
+  },
+  "nepenthes undulatifolia": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar daun gelombang"
+  },
+  "nepenthes veitchii": {
+    "category": "Dilindungi",
+    "indonesian_name": "kantong semar kerah lebar"
+  },
+  "cymbidium hartinahianum": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek ibu Tien"
+  },
+  "paphiopedilum gigantifolium": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut raksasa"
+  },
+  "paphiopedilum glanduliferum": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut berkelenjar"
+  },
+  "paphiopedilum glaucophyllum": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut berbulu"
+  },
+  "paphiopedilum kolopakingii": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut Kolopaking"
+  },
+  "paphiopedilum liemianum": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut Liem"
+  },
+  "paphiopedilum mastersianum": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut master"
+  },
+  "paphiopedilum nataschae": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut Natascha"
+  },
+  "paphiopedilum primulinum": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut kuning"
+  },
+  "paphiopedilum robinsonianum": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut Robinson"
+  },
+  "paphiopedilum sangii": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut Sang"
+  },
+  "paphiopedilum supardii": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut Supardi"
+  },
+  "paphiopedilum victoria-mariae": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut maria"
+  },
+  "paphiopedilum victoria-regina": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut regina"
+  },
+  "paphiopedilum violacens": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut ungu"
+  },
+  "paphiopedilum wilhelminae": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kasut Wilhelmina"
+  },
+  "paraphalaenopsis denevei": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek ekor tikus deNevi"
+  },
+  "paraphalaenopsis labukensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek tikus labuk"
+  },
+  "paraphalaenopsis laycockii": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek ekor tikus Laycock"
+  },
+  "paraphalaenopsis serpentilingua": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek ekor tikus lidah ular"
+  },
+  "phalaenopsis bellina": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek kelip"
+  },
+  "phalaenopsis celebensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek bulan sulawesi"
+  },
+  "phalaenopsis floresensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek bulan flores"
+  },
+  "phalaenopsis gigantea": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek bulan raksasa"
+  },
+  "phalaenopsis javanica": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek bulan jawa"
+  },
+  "phalaenopsis sumatrana": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek bulan sumatera"
+  },
+  "vanda celebica": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek vanda mungil minahasa"
+  },
+  "vanda sumatrana": {
+    "category": "Dilindungi",
+    "indonesian_name": "anggrek vanda sumatera"
+  },
+  "rafflesia arnoldii": {
+    "category": "Dilindungi",
+    "indonesian_name": "rafflesia raksasa"
+  },
+  "rafflesia bengkuluensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "rafflesia bengkulu"
+  },
+  "rafflesia gadutensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "rafflesia gadut"
+  },
+  "rafflesia hasseltii": {
+    "category": "Dilindungi",
+    "indonesian_name": "tindawan biring"
+  },
+  "rafflesia lawangensis": {
+    "category": "Dilindungi",
+    "indonesian_name": "rafflesia lawang"
+  },
+  "rafflesia meijeri": {
+    "category": "Dilindungi",
+    "indonesian_name": "rafflesia Meyer"
+  },
+  "rafflesia micropylora": {
+    "category": "Dilindungi",
+    "indonesian_name": "rafflesia mulut kecil"
+  },
+  "rafflesia pricei": {
+    "category": "Dilindungi",
+    "indonesian_name": "rafflesia Prise"
+  },
+  "rafflesia rochussenii": {
+    "category": "Dilindungi",
+    "indonesian_name": "perud kibarera"
+  },
+  "rafflesia tuan-mudae": {
+    "category": "Dilindungi",
+    "indonesian_name": "bunga patma"
+  },
+  "rafflesia zollingeriana": {
+    "category": "Dilindungi",
+    "indonesian_name": "patma, kembang banyu"
+  },
+  "rafflesia patma": {
+    "category": "Dilindungi",
+    "indonesian_name": "patmo sari"
+  },
+  "rafflesia kemumu": {
+    "category": "Dilindungi",
+    "indonesian_name": "rafflesia kemumu"
+  },
+  "eurycoma apiculata": {
+    "category": "Dilindungi",
+    "indonesian_name": "pasak bumi daun runcing"
+  },
+  "taxus sumatrana": {
+    "category": "Dilindungi",
+    "indonesian_name": "taksus"
+  },
+  "aetoxylon sympetalum": {
+    "category": "Dilindungi",
+    "indonesian_name": "gaharu buaya"
+  }
+}

@@ -24,6 +24,10 @@ class ScraperConfig:
     min_image_height: int = 200
     max_image_size_mb: int = 50
     allowed_extensions: tuple = (".jpg", ".jpeg", ".png", ".webp")
+    prefer_webp: bool = True
+    target_max_kb: int = 300
+    max_dimension_px: int = 1600
+    webp_quality: int = 75
 
     def __post_init__(self):
         self.output_dir = Path(self.output_dir)

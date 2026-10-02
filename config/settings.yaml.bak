@@ -1,0 +1,56 @@
+pipeline:
+  input_csv: "data/input/kalimantan_species.csv"
+  test_mode: true
+  test_sample_size: 100
+  batch_size: 50
+  max_concurrent_workers: 5
+  checkpoint_interval: 500
+  resume_from_checkpoint: true
+
+apis:
+  gbif:
+    base_url: "https://api.gbif.org/v1"
+    rate_limit_per_sec: 100
+    timeout: 30
+  powo:
+    base_url: "https://powo.science.kew.org/api/2"
+    rate_limit_per_sec: 2
+    timeout: 30
+  iucn:
+    base_url: "https://api.iucnredlist.org/api/v4"
+    rate_limit_per_sec: 0.5
+    timeout: 60
+  cites:
+    base_url: "https://api.speciesplus.net/api/v1"
+    rate_limit_per_sec: 1
+    timeout: 60
+  wikidata:
+    sparql_endpoint: "https://query.wikidata.org/sparql"
+    rate_limit_per_sec: 1
+    timeout: 60
+
+images:
+  max_download_mb: 5
+  max_dimension_px: 1600
+  webp_quality: 75
+  target_max_kb: 300
+  concurrent_downloads: 5
+  timeout_sec: 30
+  output_dir: "data/output/{run_mode}/images"
+
+translation:
+  strategy: "hybrid"
+  engine: "google"
+  target_language: "id"
+  source_language: "en"
+  cache_translations: true
+
+p106:
+  pdf_url: "https://jdih.kehutanan.go.id/new2/home/portfolioDetails3/P_106_2018_JENIS_TSL_menlhk_07252019152513.pdf/106/2018/4/949"
+  pdf_local_path: "data/p106/P106_2018.pdf"
+  extracted_json: "data/p106/protected_species.json"
+
+output:
+  test_dir: "data/output/test_run"
+  full_dir: "data/output/full_run"
+  schema_version: "1.0"
